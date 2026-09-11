@@ -1,0 +1,1 @@
+import{st as b}from"./chunk-RcRNFt_5.js";import{Ct as c,i as A}from"./chunk-Qht_blJu.js";function a(t){let n=b.instance.getObjects(A).filter(e=>!(e.parent instanceof c));return[...t?t.lightSources:[],...n].filter(e=>e.isVisibleOnTable)}export{a as t};
