@@ -1,0 +1,3 @@
+var u={"&":`&amp;`,"'":`&#x27;`,"`":`&#x60;`,'"':`&quot;`,"<":`&lt;`,">":`&gt;`};function p(e){return typeof e!=`string`?String(e):e.replace(/[&'`"<>]/g,t=>u[t]??t)}function a(e){return e.replace(/[|｜]([^|｜\s]+?)《(.+?)》/g,`<ruby class="chat-ruby"><rb>$1</rb><rt>$2</rt></ruby>`).replace(/\\s/g,` `)}function i(e){let t=e.split(`
+`),n=[],r=0;for(;r<t.length;){let s=/^&gt;\s?(.*)$/.exec(t[r]);if(s){let c=[s[1]];for(r++;r<t.length;){let o=/^&gt;\s?(.*)$/.exec(t[r]);if(!o)break;c.push(o[1]),r++}n.push(`<span class="chat-quote">${c.join(`<br>`)}</span>`)}else n.push(t[r]),r++}return n.join(`
+`)}function l(e){return i(a(p(e)))}export{l as t};

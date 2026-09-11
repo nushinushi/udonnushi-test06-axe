@@ -1,0 +1,1 @@
+var e=class s{static{this.windows=new Map}static attach(t,c){s.windows.set(t,c)}static detach(t){s.windows.delete(t)}static current(){for(let[t,c]of s.windows)if(t.hasFocus?.())return c;return null}static reset(){s.windows.clear()}};export{e as t};
