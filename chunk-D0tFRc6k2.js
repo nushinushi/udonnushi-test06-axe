@@ -1,0 +1,1 @@
+import{N as je}from"./chunk-C3MSX2yr2.js";import{t as h}from"./chunk-cAnhnju2.js";var t=class extends h{constructor(e,s=50){super(e,je,s)}};export{t};
