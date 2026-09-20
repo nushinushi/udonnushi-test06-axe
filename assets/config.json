@@ -1,5 +1,5 @@
 {
   "backend": {
-    "url": "バックエンドサーバーのURLを指定してください。http://localhost:3000"
+    "url": "https://my-udonarium-backend-vercel-test02.vercel.app"
   }
 }
