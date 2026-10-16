@@ -1,0 +1,1 @@
+import{Cr as w,ht as S}from"./chunk-DOY0w_Yg.js";import{i as je}from"./chunk-Ck_iLq85.js";var a=new S(`TRANSLATE_FN`,{providedIn:`root`,factory:()=>{let n=w(je);return(e,c)=>n.translate(e,c)}});export{a as t};

@@ -1,0 +1,1 @@
+import{g as Rt}from"./chunk-C_naVMb9.js";import{t as h}from"./chunk-cAnhnju2.js";var t=class extends h{constructor(e,s=50){super(e,Rt,s)}};export{t};
