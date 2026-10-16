@@ -1,0 +1,1 @@
+import{d as X,i as I,m as k,p as j}from"./chunk-HKuYv3bw.js";function F(o,n,t,e){if(!k(e)||o<=0||n<=0)return null;let p=j(e),s=I(t),{colSpacing:O,rowSpacing:C}=X(t,p);if(p){let c=s,f=t/2;return{pixelW:2*s+(o-1)*O,pixelH:o>=2?n*t+t/2:n*t,offsetX:c,offsetY:f}}else{let c=t/2,f=s;return{pixelW:n>=2?o*t+t/2:o*t,pixelH:2*s+(n-1)*C,offsetX:c,offsetY:f}}}export{F as t};
