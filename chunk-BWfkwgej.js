@@ -1,0 +1,1 @@
+function e(t){return t.replace(/\.[^./\\]+$/,``)}export{e as t};

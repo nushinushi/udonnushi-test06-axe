@@ -1,0 +1,1 @@
+import{Bn as le,Kt as Xo}from"./chunk-CsuGmi2Q.js";var o=(()=>{class e{constructor(){this.character=Xo(null)}begin(r){this.character.set(r)}end(r){let t=this.character();r&&t&&!t.isNpc&&(t.isNpc=!0,t.update()),this.character.set(null)}static{this.ɵfac=function(t){return new(t||e)}}static{this.ɵprov=le({token:e,factory:e.ɵfac,providedIn:`root`})}}return e})();export{o as t};

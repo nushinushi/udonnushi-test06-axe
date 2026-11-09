@@ -1,0 +1,1 @@
+function l(n){let t=n.trim().replace(/^#/,``),e=t.length===3?t.replace(/./g,`$&$&`):t.length===6||t.length===8?t.slice(0,6):null;return!e||!/^[0-9a-f]{6}$/i.test(e)?null:[parseInt(e.slice(0,2),16),parseInt(e.slice(2,4),16),parseInt(e.slice(4,6),16)]}function r(n,t){let e=l(n);return e?`rgba(${e[0]}, ${e[1]}, ${e[2]}, ${t})`:n}export{r as n,l as t};
