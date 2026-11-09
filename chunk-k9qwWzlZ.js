@@ -1,0 +1,1 @@
+import{f as r}from"./chunk-BOsaQ31l.js";function a(e,r$1){return r$1===r.GameMaster?!0:r$1===r.Guest?e.guestCanView:e.plCanView}function u(e,r$2){return e.isSystemTab?!1:r$2===r.GameMaster?!0:r$2===r.Guest?e.guestCanSpeak:e.plCanSpeak}export{u as n,a as t};

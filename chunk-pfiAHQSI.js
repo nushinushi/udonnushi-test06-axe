@@ -1,0 +1,1 @@
+function i(r,t,n){return Math.min(n,Math.max(t,r))}function m(r){return Number.isFinite(r)?i(r,0,1):0}function o(r,t,n,e){return typeof r==`number`&&Number.isFinite(r)?i(r,t,n):e}export{m as n,o as r,i as t};

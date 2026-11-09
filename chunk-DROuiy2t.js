@@ -1,0 +1,1 @@
+function o(n,r){if(typeof ResizeObserver!=`function`)return()=>{};let t=new ResizeObserver(i=>{let e=i[0]?.contentRect;e&&r({width:Math.round(e.width),height:Math.round(e.height)})});return t.observe(n),()=>t.disconnect()}export{o as t};

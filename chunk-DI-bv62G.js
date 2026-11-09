@@ -1,0 +1,1 @@
+var n=[``,`clock`];function o(t){return typeof t==`string`&&n.includes(t)?t:``}export{o as n,n as t};
