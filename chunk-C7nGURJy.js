@@ -1,0 +1,1 @@
+var e=`#000000`;function o(t,r){return t?.chatColorCode?.[r]??`#000000`}function b(t,r){return{light:t?.chatBubbleLight?.[r]??``,dark:t?.chatBubbleDark?.[r]??``}}function l(t){return{messColor:t.messColor,messBubbleLight:t.messBubbleLight,messBubbleDark:t.messBubbleDark}}export{o as i,e as n,l as r,b as t};

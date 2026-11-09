@@ -1,0 +1,1 @@
+function n(e,t){let r=e.imageDataElement?.children??[];return t>=0&&t<r.length?r[t]:null}function a(e){return(e.imageDataElement?.children??[]).map(t=>`${t.value??``}`).filter(Boolean)}function l(e){let t=e?.currentValue;return t==null?``:String(t)}function o(e,t){e.currentValue=t.trim()}export{o as i,l as n,n as r,a as t};

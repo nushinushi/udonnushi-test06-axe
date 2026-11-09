@@ -1,0 +1,1 @@
+function d(r,f,u){let t=f.trim(),e=u.trim();if(!t&&!e)return null;let i=r.find(n=>n.identifier===t);if(i)return{thing:i,renamed:!1};if(!e)return null;let l=r.filter(n=>n.name.trim()===e);return l.length===1?{thing:l[0],renamed:!0}:null}export{d as t};

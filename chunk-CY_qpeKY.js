@@ -1,0 +1,1 @@
+var o=`graveyard`;function r(n,e){return n.location.name===`graveyard`?!1:n.owner.length<1?!0:e.length>0&&n.owner===e}export{r as n,o as t};

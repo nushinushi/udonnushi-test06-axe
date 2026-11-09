@@ -1,0 +1,1 @@
+function u(e){if(e==null||e===``)return 1;let n=Number(e);return Number.isFinite(n)?Math.min(1,Math.max(0,n)):1}export{u as t};
