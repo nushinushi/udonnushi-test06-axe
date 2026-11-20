@@ -1,0 +1,1 @@
+function r(t){return t.split(/\r?\n|,/).map(e=>e.trim()).filter(e=>e.length>0)}export{r as t};

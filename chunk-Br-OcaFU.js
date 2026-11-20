@@ -1,0 +1,1 @@
+import{a as J,c as P,i as I,n as B}from"./chunk-CVxJzaY6.js";function F(o,n,t,e){if(!J(e)||o<=0||n<=0)return null;let p=B(e),s=I(t),{colSpacing:O,rowSpacing:C}=P(t,p);if(p){let c=s,f=t/2;return{pixelW:2*s+(o-1)*O,pixelH:o>=2?n*t+t/2:n*t,offsetX:c,offsetY:f}}else{let c=t/2,f=s;return{pixelW:n>=2?o*t+t/2:o*t,pixelH:2*s+(n-1)*C,offsetX:c,offsetY:f}}}export{F as t};

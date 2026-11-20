@@ -1,0 +1,1 @@
+import{ft as p}from"./main-KSAIBHDC.js";import{t as j}from"./chunk-BxI4CdzT.js";import{Kn as od,Yt as Zh,rn as b}from"./chunk-Bu3RBXy9.js";function l(){let o=b(p,{optional:!0});if(!o)return;let n=b(j);od(()=>{n.canEditTabletop()||Zh(()=>o.close())})}export{l as t};

@@ -1,0 +1,1 @@
+import{u as M}from"./chunk-CL2ZkMHC.js";function f(t,o){t.collectionOf(o)();for(let r of M.instance.getObjects(o))t.versionOf(r.identifier)()}export{f as t};

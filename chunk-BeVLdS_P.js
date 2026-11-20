@@ -1,0 +1,1 @@
+import{m as i}from"./chunk-DRSw6JjE.js";import{v as d}from"./chunk-CL2ZkMHC.js";function m(){return d.authorityPeerId!==null&&!i.isMyselfGameMaster}export{m as t};

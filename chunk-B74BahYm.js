@@ -1,0 +1,1 @@
+import{o as l$1,s as ot}from"./chunk-CgTn28mV.js";import{w as ze}from"./chunk-CL2ZkMHC.js";var d=`concealed`;var r=class extends l$1{};r=ze([ot(`board-stash`)],r);function l(o){if(!o)return null;for(let t of o.children)if(t instanceof r)return t;return null}export{l as n,r,d as t};

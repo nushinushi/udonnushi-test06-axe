@@ -1,0 +1,1 @@
+import{G as Jo}from"./chunk-Bu3RBXy9.js";import{t as n}from"./chunk-DcKvm_p6.js";var r=500;var i=class{constructor(){this.isSaving=Jo(!1),this.percent=Jo(0)}async run(s){this.isSaving()||(this.isSaving.set(!0),this.percent.set(0),await s(n=>this.percent.set(n)),n(r).then(()=>{this.isSaving.set(!1),this.percent.set(0)}))}};export{i as t};

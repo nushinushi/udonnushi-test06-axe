@@ -1,0 +1,1 @@
+import{t as i}from"./chunk-pfiAHQSI.js";function e(){return{motes:[],ribbons:[],floor:[],lights:[]}}function u(n,t,r){return i((n-t)/(r-t),0,1)}function c(n){let t=1-i(n,0,1);return 1-t*t*t}export{e as n,u as r,c as t};

@@ -1,0 +1,1 @@
+function a(o=window){let{pathname:t,search:n}=o.location;o.history.replaceState(null,``,t+n)}export{a as t};

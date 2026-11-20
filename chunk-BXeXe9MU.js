@@ -1,0 +1,1 @@
+import{r as c}from"./chunk-C-3XfGJs.js";import{xr as x}from"./chunk-Bu3RBXy9.js";function n(){return c(import(`./effect-stage-GoLA1Tmx.js`)).then(r=>r,()=>null)}var a=new x(`EFFECT_STAGE_LOADER`,{providedIn:`root`,factory:()=>n});export{a as t};
