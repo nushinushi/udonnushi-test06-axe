@@ -1,0 +1,1 @@
+import{t as r}from"./chunk-C7iZg1en.js";import"./bcdice-loader-BT4iZLM1.js";import"./chunk-CjBKtkSp.js";var s={"FinalFantasyXIV.en_us":{en_us:{FinalFantasyXIV:{directhit:`Direct Hit`,normalhit:`Only Base Effect`}}},"FinalFantasyXIV.ja_jp":{ja_jp:{FinalFantasyXIV:{directhit:`ダイレクトヒット`,normalhit:`基本効果のみ`}}}};r(s);export{s as TRANSLATIONS};

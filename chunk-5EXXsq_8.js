@@ -1,0 +1,1 @@
+function t(e){return e.replace(/[！-～]/g,r=>String.fromCharCode(r.charCodeAt(0)-65248))}export{t};

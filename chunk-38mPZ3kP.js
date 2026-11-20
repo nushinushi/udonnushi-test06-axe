@@ -1,0 +1,1 @@
+import{t as a}from"./chunk-Dahg2jjX.js";import{a as G}from"./chunk-DRSw6JjE.js";import{i as Ae}from"./chunk-BHyniPbJ.js";function i(e){return Ae()===null||a(e.userId)||G(e.role)}function f(e,n){return i(e)||n.includes(e.userId)}export{i as n,f as t};

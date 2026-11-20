@@ -1,0 +1,1 @@
+function o(e){if(!e)return[];let n=[],t=l=>{for(let c of l.children)n.push(c),t(c)};return t(e),n}export{o as t};
