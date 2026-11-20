@@ -1,0 +1,1 @@
+import{f as g}from"./chunk-CVxJzaY6.js";function P(i,r,a,e,f){i.beginPath(),g(i,r,a,e,f),i.stroke()}function l(i,r,a,e,f){i.beginPath(),g(i,r,a,e,f),i.fill()}export{l as n,P as t};

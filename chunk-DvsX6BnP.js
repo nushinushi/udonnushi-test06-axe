@@ -1,0 +1,1 @@
+var o=[`auto`,`high`,`standard`,`light`];var e={high:{shadowedLights:4,skyShadows:!0,ambientOcclusion:!1,bloom:!0},standard:{shadowedLights:2,skyShadows:!0,ambientOcclusion:!1,bloom:!0},light:{shadowedLights:0,skyShadows:!1,ambientOcclusion:!1,bloom:!1}};function h(t,a,s=!1){return t!==`auto`?t:a?`light`:s?`high`:`standard`}export{h as n,o as r,e as t};

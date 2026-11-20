@@ -1,0 +1,1 @@
+function f(e,r){if(e===r)return!0;if(e.size!==r.size)return!1;for(let t of e)if(!r.has(t))return!1;return!0}export{f as t};

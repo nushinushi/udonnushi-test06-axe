@@ -1,0 +1,1 @@
+import{xr as x}from"./chunk-Bu3RBXy9.js";function e(){return import(`./model-viewer-D2c2GFvt.js`).then(n=>n,()=>null)}var t=new x(`MODEL_VIEWER_LOADER`,{providedIn:`root`,factory:()=>e});export{t};

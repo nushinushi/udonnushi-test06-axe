@@ -1,0 +1,1 @@
+function e(t,o,n){return Math.floor(Math.abs(o)%500)*2+(t===`star`?1:0)+Math.min(.999,Math.max(0,1-n))}var a={motes:[],ribbons:[],floor:[],lights:[]};var E={motes:4096,marks:256,ribbonPoints:4096};export{a as n,e as r,E as t};

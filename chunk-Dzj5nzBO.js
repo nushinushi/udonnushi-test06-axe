@@ -1,0 +1,1 @@
+import{G as Jo,Ot as Te,rn as b}from"./chunk-Bu3RBXy9.js";function d(t,i){let n=Jo(t),e=null,o=()=>{e&&clearTimeout(e),e=null},r=(u,m=i)=>{o(),n.set(u),e=setTimeout(()=>{e=null,n.set(t)},m)},a=()=>{o(),n.set(t)};return b(Te).onDestroy(o),Object.assign(n.asReadonly(),{show:r,clear:a})}export{d as t};

@@ -1,0 +1,1 @@
+import{t as i}from"./chunk-pfiAHQSI.js";function o(e){if(e==null||e===``)return 1;let n=Number(e);return Number.isFinite(n)?i(n,0,1):1}export{o as t};

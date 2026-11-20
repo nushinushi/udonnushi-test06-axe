@@ -1,0 +1,1 @@
+import{Fn as le,G as Jo}from"./chunk-Bu3RBXy9.js";var l=(()=>{class e{constructor(){this.held=Jo(!1),this.shown=this.held.asReadonly()}show(){this.held.set(!0)}hide(){this.held.set(!1)}toggle(){this.held.update(t=>!t)}static{this.ɵfac=function(i){return new(i||e)}}static{this.ɵprov=le({token:e,factory:e.ɵfac,providedIn:`root`})}}return e})();export{l as t};

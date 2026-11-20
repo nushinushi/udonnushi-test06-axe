@@ -1,0 +1,1 @@
+import{bt as f}from"./chunk-BFhaREaH.js";function a(n){let r=n.parent;for(;r;){if(r instanceof f)return r;r=r.parent}return null}export{a as t};

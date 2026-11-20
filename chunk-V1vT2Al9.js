@@ -1,0 +1,1 @@
+function t(){if(typeof Intl>`u`||typeof Intl.Segmenter!=`function`)return null;try{return new Intl.Segmenter(void 0,{granularity:`grapheme`})}catch{return null}}var n=t();function u(e){return e.length<1?[]:n?Array.from(n.segment(e),r=>r.segment):Array.from(e)}export{u as t};

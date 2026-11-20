@@ -1,0 +1,1 @@
+var o=`__data.json`;function i(e){let n=e.find(t=>t===`__data.json`||t.endsWith(`/${`__data.json`}`));return n===void 0?null:n.slice(0,n.length-o.length)}export{o as n,i as t};

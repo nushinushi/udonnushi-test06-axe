@@ -1,0 +1,1 @@
+import{t as i}from"./chunk-De3Eer6l.js";import{r as n$1}from"./chunk-3RGMgRuF.js";function n(e,o){let t=n$1.get(e)??n$1.create(e);return t.tag!==o&&(t.tag=o),t}function u(e,o){let t=n$1.get(e)?.tag??``;return t!==o&&i.get(t)?.isLocked?t:(n(e,o),null)}function l(e,o){let t=n$1.get(e)??n$1.create(e);return t.tag===``&&o!==``&&(t.tag=o),t}export{n,u as r,l as t};

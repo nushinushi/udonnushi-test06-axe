@@ -1,0 +1,1 @@
+import{o as s,r as M}from"./chunk-CYS9LGzY.js";function c(o,n){let i=[];for(let t of n)t===o||!(t instanceof s)||!t.isVisibleOnTable||M(t)===o.identifier&&i.push(t);return i}function f(o,n){n.location={name:`table`,x:o.location.x+n.location.x,y:o.location.y+n.location.y},n.update()}function l(o,n){for(let i of c(o,n))f(o,i)}export{f as n,l as r,c as t};
