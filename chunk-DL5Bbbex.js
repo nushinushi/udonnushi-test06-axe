@@ -1,0 +1,1 @@
+function o(t){if(typeof t!=`string`||t.length===0||2048<t.length)return null;try{let{protocol:n}=new URL(t);return n===`https:`||n===`mailto:`?t:null}catch{return null}}function r(t){return t.startsWith(`mailto:`)?decodeURIComponent(t.slice(7).split(`?`)[0]):t}export{r as n,o as t};

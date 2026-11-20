@@ -1,0 +1,1 @@
+function r(n){if(n==null||`${n}`.trim()===``)return null;let e=Math.floor(Number(n));return Number.isFinite(e)?e:null}function l(n){return Math.max(0,r(n)??0)}export{r as n,l as t};

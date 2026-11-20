@@ -1,0 +1,1 @@
+import{t as h}from"./chunk-cAnhnju2.js";import{u as Kt}from"./chunk-BpGyA4cS.js";var t=class extends h{constructor(e,s=50){super(e,Kt,s)}};export{t};

@@ -1,0 +1,1 @@
+function n(e=0){return new Promise(t=>setTimeout(t,e))}export{n as t};

@@ -1,0 +1,1 @@
+import{i as N}from"./chunk-BVqhqPI7.js";import{t as j}from"./chunk-BxI4CdzT.js";import{Kn as od,Yt as Zh,rn as b}from"./chunk-Bu3RBXy9.js";function s(){let n=b(j),t=b(N);od(()=>{n.canEditTabletop()||Zh(()=>t.close())})}export{s as t};

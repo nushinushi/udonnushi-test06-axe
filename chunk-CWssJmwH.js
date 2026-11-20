@@ -1,0 +1,1 @@
+import{n as lo}from"./chunk-CgG9qXOq.js";import{ni as yt}from"./chunk-C21I5wNx.js";import{t as r}from"./chunk-Ch7qlBDL.js";function p(e,l={}){let o=new lo(r({canvas:e,antialias:!0,alpha:!0},l));return o.outputColorSpace=yt,o.setClearColor(0,0),o}function s(e){e.dispose(),e.forceContextLoss()}export{s as n,p as t};
