@@ -1,0 +1,1 @@
+import{V as bt}from"./chunk-B5iHdXmc.js";import{rn as b,xr as x}from"./chunk-Bu3RBXy9.js";var i=new x(`TABLE_SCREEN`,{providedIn:`root`,factory:()=>b(bt)});export{i as t};

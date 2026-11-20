@@ -1,0 +1,1 @@
+function E(_){return(_?19e5:150)+1}var N=1900020;var o=170;var A=170+1;var r=2e6;export{N as n,r,E as t};

@@ -1,0 +1,1 @@
+import{t as i$1}from"./chunk-pfiAHQSI.js";var i=12;var s=1;var u=1e-6;function p(c,r,t=1){let e=t>0?t:1,n=c/e,o=r?Math.floor(n+u)+1:Math.ceil(n-u)-1,L=Math.round(o*e*1e3)/1e3;return i$1(L,-i,i)}function d(c,r=1){let t=r>0?r:1,e=Math.abs(c),n=[];for(let o=t;o<=e+u;o+=t)n.push(Math.round(o*1e3)/1e3);return n}export{p as n,d as t};

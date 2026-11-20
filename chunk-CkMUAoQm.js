@@ -1,0 +1,1 @@
+var s=`https://cdn.discordapp.com/avatars/`;function c(t){return typeof t==`string`&&t.startsWith(s)}export{c as t};

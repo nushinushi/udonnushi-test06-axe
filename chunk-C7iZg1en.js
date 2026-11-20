@@ -1,0 +1,1 @@
+import{t as D}from"./bcdice-loader-BT4iZLM1.js";import{o as w}from"./chunk-Ch7qlBDL.js";var o=w(D());function r(n){for(let t of Object.values(n))o.I18n.$load_translation(JSON.stringify(t))}export{r as t};

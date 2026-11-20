@@ -1,0 +1,1 @@
+import{Fn as le,G as Jo}from"./chunk-Bu3RBXy9.js";var o=(()=>{class e{constructor(){this.character=Jo(null)}begin(r){this.character.set(r)}end(r){let t=this.character();r&&t&&!t.isNpc&&(t.isNpc=!0,t.update()),this.character.set(null)}static{this.ɵfac=function(t){return new(t||e)}}static{this.ɵprov=le({token:e,factory:e.ɵfac,providedIn:`root`})}}return e})();export{o as t};

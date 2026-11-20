@@ -1,0 +1,1 @@
+function o(t,n){try{return new Intl.ListFormat(n,{style:`long`,type:`conjunction`}).format(t)}catch{return t.join(`, `)}}export{o as t};

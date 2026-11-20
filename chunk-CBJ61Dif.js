@@ -1,0 +1,1 @@
+function e(){return Math.min(2,globalThis.devicePixelRatio||1)}export{e as t};
